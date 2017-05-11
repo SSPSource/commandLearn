@@ -1,1 +1,2 @@
 this is a git commondlearn
+1.git fetch 与 git pull 的区别
